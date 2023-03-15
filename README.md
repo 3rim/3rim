@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3rim
+- 👋 Hi, I’m Erim
 - 👀 I’m interested in Java, Spring Boot, Vue
 
 <!---
